@@ -1,0 +1,21 @@
+.perfil{
+height: 530px;
+}
+.row{
+width: 1350px;
+}
+.col-2{
+height: 25px;
+}
+.ellipsis{
+padding-right: 35px;
+}
+.card-body{
+padding-left: 10px;
+}
+.referencia{
+padding:0;
+}
+.carousel-inner{
+width: 37rem;
+}
